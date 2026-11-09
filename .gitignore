@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Datos (viven en Supabase, no en GitHub)
+data/raw/*.xlsx
+data/raw/*.csv
